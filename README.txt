@@ -1,5 +1,6 @@
 Flappy bird but in java with mySQL integration, created by Spandan.
-1. You will need to have the JDK installed first, download that from the oracle website
+1. You will need to have the JDK installed first, download that from the oracle website 
+
 2. You will also need the mySQL connector, to add it to VSCode, go to Java Projects on the bottom right > <Project_Name> > Referenced Libraries and add the "connector.jar" file.
 3. go to the MySQL command line and paste this:
 
